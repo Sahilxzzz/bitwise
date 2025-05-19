@@ -1,0 +1,2 @@
+C:/Users/Sahil/bitwise/android/app/.cxx/Debug/6r4t4l60/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Sahil/bitwise/android/app/.cxx/Debug/6r4t4l60/armeabi-v7a/CMakeFiles/rebuild_cache.dir
